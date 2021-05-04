@@ -20,11 +20,11 @@
 	<a target=_blank href="https://www.reddit.com/r/MoosesSoftware/"> https://www.reddit.com/r/MoosesSoftware/</a>
 	</LI></p>
 
-<p><LI> MoosesValley's YouTube Channel:
+<p><LI> MoosesValley YouTube Channel:
 	<a target=_blank href="https://www.youtube.com/user/MoosesValley/videos"> https://www.youtube.com/user/MoosesValley/videos</a>
 	</LI></p>
 
-<p><LI> Moose's LBRY/Odysee Channel (like YouTube but much better):
+<p><LI> MoosesValley LBRY/Odysee Channel (like YouTube but much better):
 	<a target=_blank href="https://odysee.com/@MoosesValley:0"> https://odysee.com/@MoosesValley:0</a>
 	</LI></p>
 
