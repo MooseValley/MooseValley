@@ -4,7 +4,7 @@
 <p>
 <UL>
 <h3>
-<p><LI> Web Site Link #1 (GitHub):
+<p><LI> Web Site Link #1 (GitHub web host):
 	<a target=_blank href="https://moosevalley.github.io/"> https://moosevalley.github.io/</a>
 	</LI></p>
 
@@ -12,7 +12,7 @@
 	<a target=_blank href="https://rebrand.ly/MoosesSoftware"> https://rebrand.ly/MoosesSoftware</a>
 	</LI></p>
 
-<p><LI> Web Site Link #3 (InfinityFree direct link):
+<p><LI> Web Site Link #3 (InfinityFree web host):
 	<a target=_blank href="http://MoosesSoftware.epizy.com"> http://MoosesSoftware.epizy.com</a>
 	</LI></p>
 
