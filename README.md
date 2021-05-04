@@ -1,12 +1,16 @@
 <h3>MooseValley: More :coffee: Less :zzz:</h3>
 :wave: Hello, my name is Moose, and I :heart: Java, SQL, Delphi / Pascal, C++, Assembler, and all types of programming - even COBOL :heart: - and :heart: everything related to computers.  I've never met a piece of computer junk I didn't like.
 
+<p>
+<UL>
 
-<br>
-My web page:
-<a target=_blank href="https://moosevalley.github.io/"> https://moosevalley.github.io/</a>
+<p><LI> My web page:
+	<a target=_blank href="https://moosevalley.github.io/"> https://moosevalley.github.io/</a>
+	</LI></p>
 
 
+</UL>
+</p>
 
 
 <hr>
