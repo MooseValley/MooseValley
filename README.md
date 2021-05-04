@@ -14,9 +14,9 @@
 </p>
 
 
-	<UL>
+
 	<table border=1 cellspacing=0 cellpadding=2 WIDTH=100%>
-			<!-- Hostinger: ended late Oct, 2018
+<!-- Hostinger: ended late Oct, 2018
 		<TR>
 			<TD><CENTER><b>Mirror #1:</b> <a target=_blank href="http://moosesoftware.16mb.com">http://moosesoftware.16mb.com</a>
 			</CENTER></TD>
@@ -27,7 +27,7 @@
 			<TD><a target=_blank href="http://moosesoftware.netau.net">http://moosesoftware.netau.net</a>
 			</TD>
 		</TR>
-			-->
+-->
 
 		<TR>
 			<TD><b>Web Site Link #1 (Rebrandly redirector - please bookmark this):</b>
@@ -66,7 +66,7 @@
 			</TD>
 		</TR>
 	</table>
-	</UL><p><br>
+
 
 
 <hr>
