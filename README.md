@@ -8,65 +8,34 @@
 	<a target=_blank href="https://moosevalley.github.io/"> https://moosevalley.github.io/</a>
 	</LI></p>
 
+<p><LI> Web Site Link #2 (Rebrandly redirector):
+	<a target=_blank href="https://rebrand.ly/MoosesSoftware"> https://rebrand.ly/MoosesSoftware</a>
+	</LI></p>
+
+<p><LI> Web Site Link #3 (InfinityFree direct link):
+	<a target=_blank href="http://MoosesSoftware.epizy.com"> http://MoosesSoftware.epizy.com</a>
+	</LI></p>
+
+<p><LI> Reddit r/MoosesSoftware:
+	<a target=_blank href="https://www.reddit.com/r/MoosesSoftware/"> https://www.reddit.com/r/MoosesSoftware/</a>
+	</LI></p>
+
+<p><LI> MoosesValley's YouTube Channel:
+	<a target=_blank href="https://www.youtube.com/user/MoosesValley/videos"> https://www.youtube.com/user/MoosesValley/videos</a>
+	</LI></p>
+
+<p><LI> Moose's LBRY/Odysee Channel (like YouTube but much better):
+	<a target=_blank href="https://odysee.com/@MoosesValley:0"> https://odysee.com/@MoosesValley:0</a>
+	</LI></p>
+
+<p><LI> >Moose's GitHub (the current page):
+	<a target=_blank href="https://github.com/MooseValley?tab=repositories"> https://github.com/MooseValley?tab=repositories</a>
+	</LI></p>
+
 
 </h3>
 </UL>
 </p>
-
-
-
-	<table border=1 cellspacing=0 cellpadding=2 WIDTH=100%>
-<!-- Hostinger: ended late Oct, 2018
-		<TR>
-			<TD><CENTER><b>Mirror #1:</b> <a target=_blank href="http://moosesoftware.16mb.com">http://moosesoftware.16mb.com</a>
-			</CENTER></TD>
-			-->
-			<!-- 000Webhost: ended late 20-Feb-2020
-			<TD><b>Web Site Link #1:</b>
-			</TD>
-			<TD><a target=_blank href="http://moosesoftware.netau.net">http://moosesoftware.netau.net</a>
-			</TD>
-		</TR>
--->
-
-		<TR>
-			<TD><b>Web Site Link #1 (Rebrandly redirector - please bookmark this):</b>
-			</TD>
-			<TD><a target=_blank href="https://rebrand.ly/MoosesSoftware">https://rebrand.ly/MoosesSoftware</a>
-			</TD>
-		</TR>
-		<TR>
-			<TD><b>Web Site Link #2 (InfinityFree direct link - please bookmark above Rebrandly link):</b>
-			</TD>
-			<TD><a target=_blank href="http://MoosesSoftware.epizy.com"> http://MoosesSoftware.epizy.com</a>
-			</TD>
-		</TR>
-		<TR>
-			<TD><b>Discussion Forum: Reddit r/MoosesSoftware/</b>
-			</TD>
-			<TD><a target=_blank href="https://www.reddit.com/r/MoosesSoftware/"> https://www.reddit.com/r/MoosesSoftware/</a>
-			</TD>
-		</TR>
-		<TR>
-			<TD><b>Moose's YouTube Channel</b>
-			</TD>
-			<TD><a target=_blank href="https://www.youtube.com/user/MoosesValley/videos"> https://www.youtube.com/user/MoosesValley/videos</a>
-			</TD>
-		</TR>
-		<TR>
-			<TD><b>Moose's LBRY Channel (like YouTube but much better)</b>
-			</TD>
-			<TD><a target=_blank href="https://lbry.tv/@MoosesValley:0"> https://lbry.tv/@MoosesValley:0</a>
-			</TD>
-		</TR>
-		<TR>
-			<TD><b>Moose's GitHub</b>
-			</TD>
-			<TD><a target=_blank href="https://github.com/MooseValley?tab=repositories"> https://github.com/MooseValley?tab=repositories</a>
-			</TD>
-		</TR>
-	</table>
-
 
 
 <hr>
