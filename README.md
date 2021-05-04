@@ -4,7 +4,7 @@
 <p>
 <UL>
 <h3>
-<p><LI> My web page:
+<p><LI> Web Site Link #1 (GitHub):
 	<a target=_blank href="https://moosevalley.github.io/"> https://moosevalley.github.io/</a>
 	</LI></p>
 
