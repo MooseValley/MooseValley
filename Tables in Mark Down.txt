@@ -1,0 +1,8 @@
+https://www.makeuseof.com/tag/create-markdown-table/
+
+Here's an example of a perfectly valid, yet scrappy-looking table in Markdown:
+
+Column 1 | Column 2 | Column 3
+--- | --- | ---
+**Things** | _Don't_ | [Need](http://makeuseof.com)
+To | *__Look__* | `Pretty`

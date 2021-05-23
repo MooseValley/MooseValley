@@ -4,7 +4,7 @@
 <p>
 <UL>
 <h3>
-<p><LI> Web Site Link #1 (GitHub web host):
+<p><LI> Web Site:
 	<a target=_blank href="https://moosevalley.github.io/"> https://moosevalley.github.io/</a>
 	</LI></p>
 
@@ -69,5 +69,14 @@ Here are some ideas to get you started:
 - ?? How to reach me: ...
 - ?? Pronouns: ...
 - ? Fun fact: ...
+
+ Here's an example of a perfectly valid, yet scrappy-looking table in Markdown:
+
+Column 1 | Column 2 | Column 3
+--- | --- | ---
+**Things** | _Don't_ | [Need](http://makeuseof.com)
+To | *__Look__* | `Pretty`
+
+
 -->
 
