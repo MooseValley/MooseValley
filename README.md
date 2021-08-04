@@ -1,5 +1,14 @@
 <h3>Moose Software Valley: More :coffee: Less :zzz:</h3>
-:wave: Hello, my name is Moose, and I :heart: Java, SQL, Delphi / Pascal, C++, Assembler, and all types of programming - even :heart: COBOL - and :heart: everything related to computers.  I've never met a piece of computer junk I didn't like. :heart: :heart: :heart:
+:wave: Hello, my name is Moose, and I :heart: Java, SQL, Delphi / Pascal, C++, Assembler, and all types of programming - even :heart: COBOL - and :heart: everything related to computers.  I've never met a piece of computer junk
+:computer:
+:desktop_computer:
+:computer_mouse:
+:joystick:
+:floppy_disk:
+:minidisc:
+:cd:
+:printer:
+I didn't like. :heart: :heart: :heart:
 
 <p>
 <UL>
