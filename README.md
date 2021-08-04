@@ -5,12 +5,14 @@ yes, even :heart: COBOL - and :heart: everything related to computers.  I've nev
 :desktop_computer:
 :computer_mouse:
 :joystick:
+:video_game:
 :floppy_disk:
 :minidisc:
 :cd:
 :vhs:
 :printer:
 :tv:
+:satellite:
 :heart: :heart: :heart:
 
 <p>
