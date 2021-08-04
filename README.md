@@ -8,7 +8,9 @@ yes, even :heart: COBOL - and :heart: everything related to computers.  I've nev
 :floppy_disk:
 :minidisc:
 :cd:
+:vhs:
 :printer:
+:tv:
 :heart: :heart: :heart:
 
 <p>
