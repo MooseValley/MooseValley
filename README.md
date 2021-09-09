@@ -76,10 +76,8 @@ yes, even :heart: COBOL - and :heart: everything related to computers.  I've nev
 -->
 
 
-<p>
 <!-- Visitor Count.  REF: https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g  -->
 ![Visitor Count](https://profile-counter.glitch.me/MooseValley/count.svg)
-</p>
 
 
 <!--
