@@ -1,4 +1,4 @@
-<h3>Moose Software Valley: More :coffee: Less :zzz:</h3>
+<h3>Moose OMalley / Moose's Software Valley: More :coffee: Less :zzz:</h3>
 :wave: Hello, my name is Moose, and I :heart: Java, SQL, Delphi / Pascal, C++, Assembler, and all types of programming -
 yes, even :heart: COBOL - and :heart: everything related to computers.  I've never met a piece of computer junk I didn't like.
 :computer:
